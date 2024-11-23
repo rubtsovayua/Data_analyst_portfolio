@@ -17,4 +17,4 @@ Data analysis tools
 -Types of data analysis and machine learning
 
 
-Python libraries used:pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn
+Python libraries used: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn
